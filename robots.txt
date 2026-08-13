@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-uk0snf.date-me.pro/sitemap.xml
